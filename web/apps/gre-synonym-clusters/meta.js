@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-synonym-clusters", "title": "Synonym Clusters", "exam": "GRE", "area": "GRE Verbal", "desc": "Learn GRE words in meaning groups, then sort mixed words into their groups against the clock.", "content": ["clusters.json"], "n": 3};
